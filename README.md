@@ -2,28 +2,11 @@
 
 Uma aplicação web simples e intuitiva para calcular gorjetas e dividir a conta entre múltiplas pessoas.
 
-## 🎯 Funcionalidades
-
-- **Cálculo de Gorjeta**: Digite o valor da conta e ajuste a porcentagem de gorjeta usando um controle deslizante
-- **Visualização em Tempo Real**: Os valores são atualizados instantaneamente conforme você ajusta os controles
-- **Divisão de Conta**: Divida o valor total (incluindo gorjeta) entre múltiplas pessoas
-- **Interface Amigável**: Design responsivo e intuitivo com gradiente visual atrativo
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica da aplicação
 - **CSS3**: Estilização com gradientes e animações suaves
 - **JavaScript**: Lógica de cálculo e atualização de valores em tempo real
-
-## 📂 Estrutura do Projeto
-
-```
-calculadoraGorjeta/
-├── index.html      # Estrutura HTML da aplicação
-├── style.css       # Estilos e design responsivo
-├── index.js        # Lógica de cálculo
-└── README.md       # Este arquivo
-```
 
 ## 🚀 Como Usar
 
@@ -44,13 +27,6 @@ A aplicação realiza os seguintes cálculos:
 
 Todos os valores são formatados em reais (R$) com duas casas decimais.
 
-## 🎨 Características de Design
-
-- **Gradiente Principal**: Tons de verde/ciano (#3dc0c0 a #5bceae)
-- **Layout Responsivo**: Funciona bem em diferentes tamanhos de tela
-- **Controles Deslizantes**: Interface intuitiva para ajustar valores
-- **Shadows e Rounded Corners**: Design moderno e polido
-
 ## 📝 Exemplos de Uso
 
 ### Exemplo 1: Dividir conta com amigos
@@ -64,17 +40,3 @@ Todos os valores são formatados em reais (R$) com duas casas decimais.
 - Gorjeta: 20%
 - Pessoas: 1
 - **Resultado**: R$ 60,00 no total
-
-## 🌐 Compatibilidade
-
-- ✅ Chrome, Firefox, Safari, Edge
-- ✅ Navegadores móveis modernos
-- ✅ Sem dependências externas (exceto Google Fonts)
-
-## 📄 Licença
-
-Este projeto é de código aberto e disponível para uso livre.
-
----
-
-**Desenvolvido com ❤️ por GabOof**
